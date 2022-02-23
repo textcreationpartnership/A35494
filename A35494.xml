@@ -1,0 +1,943 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A curious collettion [sic] of paintings and limnings, of the most famous, ancient and modern masters in Europe viz. Mich. Angelo. ... Offtigar. With many more famous masters not here inserted. Will be exposed to sale, by way of auction, on Monday the 30th, and Tuesday the 31st of this instant March, and Wednesday, April the 1st, 2d and 3d, at Smythers Coffee-House in Thames-street, by the Custom-House; the sale beginning each afternoon. at three of the clock, the said paintings are to be viewed from this day forwrad [sic]. Catalogues my be had at the place of sale.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35494</idno>
+            <idno type="STC">Wing C7668</idno>
+            <idno type="STC">ESTC R214426</idno>
+            <idno type="EEBO-CITATION">99826601</idno>
+            <idno type="PROQUEST">99826601</idno>
+            <idno type="VID">31004</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31004)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1828:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A curious collettion [sic] of paintings and limnings, of the most famous, ancient and modern masters in Europe viz. Mich. Angelo. ... Offtigar. With many more famous masters not here inserted. Will be exposed to sale, by way of auction, on Monday the 30th, and Tuesday the 31st of this instant March, and Wednesday, April the 1st, 2d and 3d, at Smythers Coffee-House in Thames-street, by the Custom-House; the sale beginning each afternoon. at three of the clock, the said paintings are to be viewed from this day forwrad [sic]. Catalogues my be had at the place of sale.</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:31004:1"/>
+            <pb facs="tcp:31004:1" rendition="simple:additions"/>
+            <head>A CURIOUS COLLETTION OF <hi>Paintings and Limnings.</hi> Of the moſt Famous, Ancient and Modern Maſters in <hi>Europe, Viz.</hi>
+            </head>
+            <list>
+               <item>Mich. Angelo.</item>
+               <item>Van Hock.</item>
+               <item>Spranger.</item>
+               <item>Pluto.</item>
+               <item>Moy.</item>
+               <item>Porter.</item>
+               <item>Pierce.</item>
+               <item>Vario.</item>
+               <item>Saverus.</item>
+               <item>Rooſe.</item>
+               <item>Ferguſon.</item>
+               <item>Rerry.</item>
+               <item>Lawſon.</item>
+               <item>De Vernet.</item>
+               <item>Van Clave.</item>
+               <item>Post.</item>
+               <item>Stope.</item>
+               <item>Melle.</item>
+               <item>Spinolett.</item>
+               <item>Folet.</item>
+               <item>Crique.</item>
+               <item>Guido.</item>
+               <item>Pulla.</item>
+               <item>Harfield.</item>
+               <item>Farker.</item>
+               <item>Langreen.</item>
+               <item>Moriner.</item>
+               <item>Stanarett.</item>
+               <item>Cl. Lorrain.</item>
+               <item>Vousterman.</item>
+               <item>Egremont.</item>
+               <item>Braman.</item>
+               <item>Dignole.</item>
+               <item>Romboute.</item>
+               <item>Cornelia.</item>
+               <item>Beneſt.</item>
+               <item>Perbius.</item>
+               <item>Van Pauten.</item>
+               <item>Roſa.</item>
+               <item>Van Span.</item>
+               <item>Noah.</item>
+               <item>Vergoſon.</item>
+               <item>Strado.</item>
+               <item>Verhulst.</item>
+               <item>Vohett.</item>
+               <item>Fite.</item>
+               <item>Pouſine.</item>
+               <item>Henns.</item>
+               <item>Vanderlane.</item>
+               <item>Quinton.</item>
+               <item>Bogeart.</item>
+               <item>Ray.</item>
+               <item>Botts.</item>
+               <item>Pollen.</item>
+               <item>Halem.</item>
+               <item>Denelf.</item>
+               <item>Cautelmo.</item>
+               <item>Wouterſon.</item>
+               <item>Holbein.</item>
+               <item>Brockhurſt.</item>
+               <item>Vanhoope.</item>
+               <item>Vanuliger.</item>
+               <item>Maſon.</item>
+               <item>Vantaven.</item>
+               <item>Van Peterſon.</item>
+               <item>
+                  <hi>Old</hi> Bean.</item>
+               <item>Vanderwitto</item>
+               <item>Fetti.</item>
+               <item>Palma.</item>
+               <item>Laplas.</item>
+               <item>Vandermure.</item>
+               <item>Smott.</item>
+               <item>Vanolavan.</item>
+               <item>Segors.</item>
+               <item>Luſt.</item>
+               <item>Van Heyder.</item>
+               <item>Vaugoure.</item>
+               <item>Jordaens.</item>
+               <item>Pincaere.</item>
+               <item>Moratto.</item>
+               <item>Hoockert.</item>
+               <item>Homdier.</item>
+               <item>Dellon.</item>
+               <item>Scott.</item>
+               <item>Floriteer.</item>
+               <item>Brent.</item>
+               <item>Morvelt.</item>
+               <item>Breda.</item>
+               <item>Colonie.</item>
+               <item>Vanderpoole.</item>
+               <item>Teniers.</item>
+               <item>Walker.</item>
+               <item>Skinner.</item>
+               <item>Van Baſe.</item>
+               <item>Rombola.</item>
+               <item>Lacooſin.</item>
+               <item>Croyer.</item>
+               <item>Caruo.</item>
+               <item>Frouquer.</item>
+               <item>Brill.</item>
+               <item>Foulett.</item>
+               <item>Stavan.</item>
+               <item>Taxes's.</item>
+               <item>Buſler.</item>
+               <item>Queelen.</item>
+               <item>Wiſſen.</item>
+               <item>Lapplaſs.</item>
+               <item>Bomlt.</item>
+               <item>Varbett.</item>
+               <item>Van Hatton.</item>
+               <item>Botte.</item>
+               <item>Offligar.</item>
+            </list>
+            <p>
+               <hi>With many more Famous Maſters not here Inſerted. Will be expoſed to Sale by way of</hi> Auction, <hi>on</hi> Monday <hi>the 30th, and</hi> Tueſday <hi>the 31ſt of this inſtant</hi> March, <hi>and</hi> Wedneſday, April <hi>the 1ſt, 2d and 3d, at</hi> Smythers <hi>Coffee-Houſe in</hi> Thames-ſtreet, <hi>by the Cuſtom-Houſe; the Sale beginning each Afternoon<g ref="char:punc">▪</g> at Three of the Clock, The ſaid Paintings are to be viewed from this day forward. Cata<g ref="char:EOLhyphen"/>logues may be had at the place of Sale.</hi>
+            </p>
+         </div>
+         <div type="list_of_conditions">
+            <pb facs="tcp:31004:2"/>
+            <head>Conditions of SALE.</head>
+            <list>
+               <item>
+                  <hi>I.</hi> THat he who bids moſt is the Buyer, and if any Difference ariſe which the Company cannot Decide, then the Paintings, <hi>&amp;c</hi> ſhall be Expoſed to Sale again.</item>
+               <item>
+                  <hi>II.</hi> That the Money for the Paintings <hi>&amp;c.</hi> ſo bought is to be paid at the place of Sale within three Days after the Sale is ended, but for the Conveniency of ſuch as de<g ref="char:EOLhyphen"/>ſire them ſooner, conſtant Attendance for delivery will be given every Day at the ſaid Place.</item>
+               <item>
+                  <hi>III.</hi> That all Gentlemen, Ladies, <hi>&amp;c.</hi> after the buying any Painting, will be pleaſed to give in their Names and Lodgings, at the Sale; otherwiſe to pay the third part of the Price, or the whole Money preſent<g ref="char:EOLhyphen"/>ly for them, where upon payment of the remainder within the time limited, the Paintings, Limnings, <hi>&amp;c.</hi> ſhall be delivered to them or their Order.</item>
+               <item>
+                  <hi>IV.</hi> That no Perſon is to bid leſs than ſix pence a time, for any Lott expoſed to Sale.</item>
+               <item>
+                  <hi>V.</hi> That the Paintings, <hi>&amp;c.</hi> may be viewed by any Perſons that pleaſe to repair to the place of Sale; Where Catalogues are given to thoſe that require them.</item>
+            </list>
+         </div>
+         <div type="list_of_paintings">
+            <pb n="1" facs="tcp:31004:2"/>
+            <head>Paintings and Limnings, <hi>&amp;c.</hi>
+            </head>
+            <list>
+               <item>1 A Lady walking</item>
+               <item>2 a <hi>French</hi> Lady ſitting in a Chair</item>
+               <item>3 a Droll</item>
+               <item>4 a <hi>French</hi> Gallant</item>
+               <item>5 Deſtruction of <hi>Troy</hi>
+               </item>
+               <item>6 Our Saviour and <hi>Tho. Didymus</hi>
+               </item>
+               <item>7 <hi>Noahs</hi> Flood</item>
+               <item>8 Crucifying our Saviour</item>
+               <item>9 Accuſation of our Saviour</item>
+               <item>10 a Haven with Ships</item>
+               <item>11 The Angel and Shepherds</item>
+               <item>12 a piece of Harveſt</item>
+               <item>13 a Hunting piece</item>
+               <item>14 <hi>Daniel</hi> in the Lyons Den</item>
+               <item>15 a Winter-piece</item>
+               <item>16 a piece of Autumn</item>
+               <item>17 a piece of a Droll</item>
+               <item>18 a piece of Robbing the Caravans</item>
+               <item>19 a Man ſmoaking</item>
+               <item>20 a Mans Head</item>
+               <item>21 a Landskip with a Swan</item>
+               <item>22 K. <hi>William</hi> and Q. <hi>Mary</hi> finely done</item>
+               <item>23 a <hi>Mary Magdalen</hi> by a Dutch maſter</item>
+               <item>24 <hi>Europa</hi> by a good hand</item>
+               <item>25 a Gentlewoman playing on a Cittern</item>
+               <item>26 a fine piece of <hi>Titian</hi> and his Miſtriſs</item>
+               <item>27 a Hen by <hi>Varelſt</hi>
+               </item>
+               <item>28 The Angels and Shepherds after <hi>Baſſan</hi>
+               </item>
+               <item>29 a <hi>Roman</hi> Monument, 3 qu. Orig. by an <hi>Ital.</hi>
+               </item>
+               <item>30 a Landskip with <hi>Fuzman Paggs,</hi> by the life</item>
+               <item>31 <hi>Meleagar</hi> and <hi>Attalanta,</hi> by a Dutch maſter</item>
+               <item>32 a fine Landskip with a Waterfall, by <hi>Pierce</hi>
+               </item>
+               <item>33 a Sea-piece of <hi>Sailmaker</hi>
+               </item>
+               <item>34 a large Landskip fit for a Chimney</item>
+               <item>35 <hi>Venus</hi> and <hi>Cupid</hi> by a great maſter</item>
+               <item>36 a piece of <hi>Pomona</hi> and <hi>Jupiter,</hi> an Original</item>
+               <item>37 a piece of Ruines finely done</item>
+               <item>38 a pleaſant Landskip</item>
+               <item>39 a piece of fruit, fiſh and fowl, by <hi>Stenwick</hi>
+               </item>
+               <item>40 a Sea-piece by <hi>Peters</hi>
+               </item>
+               <item>41 a fine piece of burning the Ships at <hi>Argier</hi>
+               </item>
+               <item>42 One of the <hi>Sybils</hi> well done</item>
+               <item>43 a large piece of <hi>David</hi> with <hi>Goliabs</hi> head, an Original, by <hi>Caſtelles</hi>
+               </item>
+               <item>44 a Banquet of Oyſters and Wine</item>
+               <item>45 K. <hi>William</hi> and Q. <hi>Mary,</hi> a half length</item>
+               <item>46 a fine piece of Cows, by <hi>Colona</hi>
+               </item>
+               <item>47 a fine piece of Prudence</item>
+               <item>48 K. <hi>William</hi> Landing at <hi>Carrickfergus</hi>
+               </item>
+               <item>49 <hi>Jupiter</hi> enjoying <hi>Leda,</hi> by a Dutch maſter</item>
+               <item>50 an Original Froſt-piece by <hi>Debryan</hi>
+               </item>
+               <pb n="2" facs="tcp:31004:3"/>
+               <item>51 a Fruit-piece by <hi>Guilman</hi>
+               </item>
+               <item>52 a curious piece of Vanity very fine</item>
+               <item>53 a large piece of a Tomb fit for a Chimney</item>
+               <item>54 King <hi>Williams</hi> embarquing at <hi>High-Lake</hi>
+               </item>
+               <item>55 <hi>William Summers</hi> K. <hi>Henry</hi> the 8ths. Jeſter</item>
+               <item>56 a Friers Head by <hi>Francis Floris</hi>
+               </item>
+               <item>57 <hi>London-Derry</hi> well painted by <hi>Sailmaker</hi>
+               </item>
+               <item>58 <hi>Hagar</hi> and <hi>Iſhmael</hi>
+               </item>
+               <item>59 a Landskip after <hi>Van Dieſt</hi>
+               </item>
+               <item>60 a very fine piece of Queen <hi>Dido</hi>
+               </item>
+               <item>61 a Droll by <hi>Vauſſan</hi>
+               </item>
+               <item>62 a ſmall Head by <hi>Brower</hi>
+               </item>
+               <item>63 <hi>Meleagar</hi> and <hi>Attalanta</hi> on copper</item>
+               <item>64 a 3 qu. Landsk. by <hi>Hullenburgh,</hi> figures by <hi>Wyck</hi>
+               </item>
+               <item>65 <hi>Procris</hi> ſhot in the breaſt, by an Italian maſter</item>
+               <item>66 <hi>Judith</hi> and <hi>Holifernes</hi> an Orig. by <hi>Johannes Mola</hi>
+               </item>
+               <item>67 a laughing Philoſopher by Old <hi>Boon</hi>
+               </item>
+               <item>68 a Landskip by <hi>Eyebright</hi>
+               </item>
+               <item>69 a fine piece of St. <hi>Jerom</hi>
+               </item>
+               <item>70 an Italian Head well painted</item>
+               <item>71 <hi>Van Dycks</hi> Head</item>
+               <item>72 a ſmall Fruit-piece by a Diſciple of <hi>Bogdan</hi>
+               </item>
+               <item>73 a Sea-piece by Old <hi>Pierce</hi>
+               </item>
+               <item>74 <hi>Achillis</hi> amongſt the Ladies, by <hi>Guiov. Valeſſio</hi>
+               </item>
+               <item>75 an Original Landskip by <hi>Breughel</hi>
+               </item>
+               <item>76 a piece of ſtill-life with a Violin, by <hi>Lyon</hi>
+               </item>
+               <item>77 <hi>Toby</hi> and the Angel, on copper, well done</item>
+               <item>78 a curious Moon-ſhine by <hi>Van Dieſt</hi>
+               </item>
+               <item>79 an original of Nymphs and Satyrs, by <hi>De Ryck</hi>
+               </item>
+               <item>80 an Ital. piece of Pipers with a Dog &amp; Cat dancing, and ſtand where you will they ſeem to dance towards you</item>
+               <item>81 <hi>Venus</hi> and <hi>Adonis</hi> by a Dutch maſter</item>
+               <item>82 <hi>Lot</hi> and his Daughters an original</item>
+               <item>83 a piece of ſtill-life, with a Pipe and Books, by <hi>Lyon</hi>
+               </item>
+               <item>84 a School by <hi>Muſtard</hi>
+               </item>
+               <item>85 a very-fine Old Womans head</item>
+               <item>86 K. <hi>James,</hi> a half length, in his Robes, well done</item>
+               <item>87 a Flower-piece by <hi>Varelſt</hi>
+               </item>
+               <item>88 <hi>Apollo</hi> with the Muſes &amp; ſome Satyrs, finely done</item>
+               <item>89 <hi>Plymouth</hi> finely painted by <hi>Sailmaker</hi>
+               </item>
+               <item>90 a Man reading, in a carved frame, by <hi>Brower</hi>
+               </item>
+               <item>91 <hi>Balſhazars</hi> Feaſt by a great maſter</item>
+               <item>92 The ſtory of <hi>Diana</hi> and <hi>Acteon,</hi> by <hi>Croas</hi>
+               </item>
+               <item>93 a curious Landskip, by a good hand</item>
+               <item>94 a Landskip by a Dutch maſter</item>
+               <item>95 Q. <hi>Mary</hi> a half length, in ſmall</item>
+               <item>96 a Houſe of good Fellowſhip</item>
+               <item>97 a Guard-Chamber well done</item>
+               <item>98 a Landskip by a good hand</item>
+               <item>99 a Cupid Painting</item>
+               <item>100 a Landskip by a good hand</item>
+               <pb n="3" facs="tcp:31004:3"/>
+               <item>101 a piece of <hi>Snuker Snee</hi>
+               </item>
+               <item>102 The Seven Biſhops on a 3 quarter Cloth</item>
+               <item>103 a piece in black and white of Sheep ſheering</item>
+               <item>104 The King of <hi>Jeruſalem</hi>
+               </item>
+               <item>105 an old mans head very fine</item>
+               <item>106 a Gyants head</item>
+               <item>107 a ſmall piece of a Battle</item>
+               <item>108 a ſmall fire-piece by <hi>Colona</hi>
+               </item>
+               <item>109 a ſmall ſtill-life well done</item>
+               <item>110 a Gentleman courting his Miſtriſs</item>
+               <item>111 a Feſtoon of Flowers by <hi>Engliſh</hi>
+               </item>
+               <item>112 a woman with Bells about her Neck</item>
+               <item>113 The 12 Philoſophers well done in Japan frames</item>
+               <item>114 a Head by <hi>Caſtro</hi> telling Guinies</item>
+               <item>115 King <hi>William</hi> and Queen <hi>Mary</hi> finely done</item>
+               <item>116 a curious Landskip by <hi>Van Dieſt</hi>
+               </item>
+               <item>117 a ſleeping <hi>Venus</hi> and Satyrs after <hi>Titian</hi>
+               </item>
+               <item>118 a half length of a Lady ſuppoſed by <hi>Holbien</hi>
+               </item>
+               <item>119 a <hi>Diana</hi> and her Doggs well painted</item>
+               <item>120 <hi>Jane Shore</hi> well done</item>
+               <item>121 Two Beggars in ſtone colours by a good maſt.</item>
+               <item>122 The Grot of <hi>Vulean, Venus,</hi> and <hi>Cyclops,</hi> an orig.</item>
+               <item>123 a Landskip by <hi>Devenet</hi>
+               </item>
+               <item>124 <hi>Diana</hi> by a very good hand</item>
+               <item>125 <hi>Czar</hi> of <hi>Muſcovy</hi> finely painted</item>
+               <item>126 a Land ſtorm by a <hi>Dutch</hi> maſter</item>
+               <item>127 a ſmall Landskip by <hi>Vanuliger</hi>
+               </item>
+               <item>128 a Landskip by a Dutch maſter</item>
+               <item>129 a Ballad-ſinger</item>
+               <item>130 <hi>Mary Magdalen</hi> by a Dutch maſter</item>
+               <item>131 a Hare and Dogs finely painted</item>
+               <item>132 a winter-piece</item>
+               <item>133 a Comical fellow making <hi>Supernaculum</hi>
+               </item>
+               <item>134 a Drunkard hugging his Pot</item>
+               <item>135 a fine piece of Fruit by an Italian maſter</item>
+               <item>136 a ſmall piece of Cherries by the Life</item>
+               <item>137 a ſmall Landskip well done</item>
+               <item>138 a piece of ſtill-life with Herrings by <hi>Wolton</hi>
+               </item>
+               <item>139 The weeping Philoſopher an orig. by old <hi>Boon</hi>
+               </item>
+               <item>140 an Obſcene piece</item>
+               <item>141 a fine piece of the Queen that beat the <hi>Romans</hi> out of <hi>England</hi>
+               </item>
+               <item>142 a piece of Ballad ſinging by <hi>Van Often</hi>
+               </item>
+               <item>143 King <hi>William</hi>'s landing at <hi>Carrickfergus</hi>
+               </item>
+               <item>144 a piece of flowers an original by <hi>Varelst</hi>
+               </item>
+               <item>145 St. <hi>Peters</hi> Church at <hi>Rome,</hi> full of figures by <hi>Roberto Meglietti</hi>
+               </item>
+               <item>146 a Gate at <hi>Rome</hi> finely done by a Italian</item>
+               <item>147 a Head by the Life ſuppoſed by <hi>Kneller</hi>
+               </item>
+               <item>148 <hi>Moſos</hi> ſtriking the Rock finely done</item>
+               <item>149 The offering of the 3 Kigns ſuppoſed by <hi>Rubens</hi>
+               </item>
+               <item>150 a view of the Kings at <hi>Rocheſter</hi>
+               </item>
+               <pb n="4" facs="tcp:31004:4"/>
+               <item>151 a curious Fortune almoſt as big as the life</item>
+               <item>152 a Turks Head painted by an Italian</item>
+               <item>153 a fine Landskip by a great maſter</item>
+               <item>154 a piece of Beaſts very fine</item>
+               <item>155 a fine piece of Boars</item>
+               <item>156 a Head of K. <hi>Charles</hi> II. after Sir <hi>Peter Lilly</hi>
+               </item>
+               <item>157 a pc. of Still-life with Hens and Birds, by <hi>Varelſt</hi>
+               </item>
+               <item>158 a fine piece of <hi>Dives</hi> and <hi>Lazarus</hi>
+               </item>
+               <item>159 an original piece of Oyſters, by <hi>Adama</hi>
+               </item>
+               <item>160 a Landskip by a Dutch maſter</item>
+               <item>161 a Sea-ſtorm finely painted by <hi>Sailmaker</hi>
+               </item>
+               <item>162 St. <hi>Peter</hi> and the Cock well done</item>
+               <item>163 an Orig. Landsk. and ſtory out of <hi>Ovid,</hi> by <hi>Edima</hi>
+               </item>
+               <item>164 a Man &amp; Woman dreſſing themſelves, by <hi>F. Holſt</hi>
+               </item>
+               <item>165 a ſmall piece of St. <hi>Katherine</hi>
+               </item>
+               <item>166 a piece of Beaſts after <hi>Berkham</hi>
+               </item>
+               <item>167 a piece of ſtill-life with pickled Herring</item>
+               <item>168 a delicate head of an Old Woman and Monky</item>
+               <item>169 an Old Womans head by a great maſter</item>
+               <item>170 Boys playing after <hi>Deryck</hi>
+               </item>
+               <item>171 <hi>Lucretia</hi> and <hi>Tarquin</hi> an Original</item>
+               <item>172 a Winter-piece very fine</item>
+               <item>173 a Sea-port by a great maſter</item>
+               <item>174 Our Saviour bearing his croſs, by young <hi>Frank</hi>
+               </item>
+               <item>175 Duke of <hi>Monmouth</hi> on copper, curiouſly done</item>
+               <item>176 K. <hi>Charles</hi> II. ſuppoſed by <hi>Kneller</hi>
+               </item>
+               <item>177 a Winter-piece finely painted, in an ebony frame</item>
+               <item>178 <hi>Daphnis</hi> and <hi>Apollo,</hi> by <hi>Berry</hi>
+               </item>
+               <item>179 a Bakers boy winding his Horn</item>
+               <item>180 a fine piece, hunting Buck and Doe</item>
+               <item>181 a Sea-piece very fine</item>
+               <item>182 a Froſt piece where they are building of Ships</item>
+               <item>183 a Sea-fight betw. the <hi>French</hi> &amp; <hi>Engliſh,</hi> by <hi>Sailm.</hi>
+               </item>
+               <item>184 a Sea-piece in black and white</item>
+               <item>185 a Frier at Confeſſion</item>
+               <item>186 a piece of Charity and Fidelity</item>
+               <item>187 a Dog by <hi>Hondius</hi>
+               </item>
+               <item>188 The Garden of <hi>Eden</hi>
+               </item>
+               <item>189 a ſmall Landskip very fine</item>
+               <item>190 a piece of a Tomb fit for a Chimney</item>
+               <item>191 a Ruine by an Italian Maſter</item>
+               <item>192 a fine head by a great maſter</item>
+               <item>193 an original Fruit-piece by a good hand</item>
+               <item>194 King <hi>William</hi> and Queen <hi>Mary</hi>
+               </item>
+               <item>195 a fine piece of a Grotto, by <hi>Stopes</hi>
+               </item>
+               <item>196 a piece of Bread, Cheeſe, Bacon and Eggs</item>
+               <item>197 a Landskip well done</item>
+               <item>198 a Sea-port, by <hi>Waggoner</hi>
+               </item>
+               <item>199 a Shepherd and Shepherdeſs, well done</item>
+               <item>200 <hi>Diana</hi> in black and white, well done</item>
+               <pb n="5" facs="tcp:31004:4"/>
+               <item>201 a ſmall piece by <hi>Colona</hi>
+               </item>
+               <item>202 a Landskip by a good hand</item>
+               <item>203 a piece of two Parrots</item>
+               <item>204 a fine piece of Goddeſſes</item>
+               <item>205 a Landskip by a good hand</item>
+               <item>206 a Hermit by a great maſter</item>
+               <item>207 K. <hi>William</hi> and Q. <hi>Mary</hi>
+               </item>
+               <item>208 a fruit piece</item>
+               <item>209 an old mans head very fine</item>
+               <item>210 a <hi>Mary Magdalen</hi>
+               </item>
+               <item>211 a ſmall piece of ſpring</item>
+               <item>212 a Basket of flowers well done</item>
+               <item>213 a fine piece of a Thunder Clap</item>
+               <item>214 Two Japan pieces upon Glaſs</item>
+               <item>215 a Fruit piece by a Diſciple of <hi>Bougdan</hi>
+               </item>
+               <item>216 Two beggars in two Collors by a good hand</item>
+               <item>217 a Grey Friers head</item>
+               <item>218 a Landskip with a waterfal</item>
+               <item>219 <hi>Narciſſus</hi> after <hi>Titian</hi>
+               </item>
+               <item>220 a Mans head after old <hi>Haemskirk</hi>
+               </item>
+               <item>221 <hi>Andromeda</hi> in a very fine frame after <hi>Medana</hi>
+               </item>
+               <item>222 a ſmall fire piece well done</item>
+               <item>223 a Winter piece by a Dutch maſter</item>
+               <item>224 a Sea piece in black and white, by <hi>Moye</hi>
+               </item>
+               <item>225 a piece of ſtill Life after <hi>Robiſon</hi>
+               </item>
+               <item>226 a Man mowing by <hi>Brughel</hi>
+               </item>
+               <item>227 an Original Sea ſtorm by <hi>Sailmaker</hi>
+               </item>
+               <item>228 a Droll by <hi>Haemskirk</hi>
+               </item>
+               <item>229 a Sea ſtorm very fine</item>
+               <item>230 Two Angels in the Clouds</item>
+               <item>231 The grott of <hi>Vulcan</hi> &amp; <hi>Venus</hi> with <hi>Cyclops</hi> an or.</item>
+               <item>232 a piece of fair <hi>Roſamand</hi>
+               </item>
+               <item>233 a Turkiſh ſea port</item>
+               <item>234 a Bacchanalia pleaſant picture</item>
+               <item>235 a fine piece of <hi>Europa</hi> by <hi>Lamence</hi>
+               </item>
+               <item>236 an original of the Moon and <hi>Edymion</hi>
+               </item>
+               <item>237 a Mooriſh Horſe and Morroccos by <hi>Wyke</hi>
+               </item>
+               <item>238 a sketch being <hi>Venus</hi> by <hi>Rubens</hi>
+               </item>
+               <item>239 a piece of Italian Horſes</item>
+               <item>240 Our Saviour carrying his Croſs</item>
+               <item>241 The holy family by <hi>Cento Brand</hi>
+               </item>
+               <item>242 The 3 Kings by a Dutch maſter</item>
+               <item>243 K. <hi>William</hi> and Q. <hi>Mary</hi> by a Dutch maſter</item>
+               <item>244 a Head finely painted</item>
+               <item>245 <hi>Carrickfergus</hi> with Ships by <hi>Sailmaker</hi>
+               </item>
+               <item>246 a Drunkard by <hi>Teniers</hi>
+               </item>
+               <item>247 a Dog Teacher</item>
+               <item>248 a piece of Birds finely done</item>
+               <item>249 a Battle by Moon Light by <hi>Wyke</hi>
+               </item>
+               <item>250 a curious flower piece by <hi>Van Everbrook</hi>
+               </item>
+               <pb n="6" facs="tcp:31004:5"/>
+               <item>251 <hi>Jove</hi> in the ſhape of an Eagle carrying <hi>Aſtrea</hi> to Heaven</item>
+               <item>252 St. <hi>John</hi> Preaching in the Wilderneſs</item>
+               <item>253 an Italian piece of the Nativity of our Saviour</item>
+               <item>254 a head in ſmall, by <hi>Abraham Blomaert</hi>
+               </item>
+               <item>255 King <hi>William</hi> and Queen <hi>Mary</hi> finely done</item>
+               <item>256 a <hi>German</hi> battel before <hi>Hatein</hi>
+               </item>
+               <item>257 a Feaſt of the Gods by a good hand</item>
+               <item>258 <hi>Diana</hi> an Original</item>
+               <item>259 The Regalia finely painted</item>
+               <item>260 a Charity ſuppoſed by <hi>Vohitt</hi>
+               </item>
+               <item>261 St. <hi>Jerom</hi> in the Wilderneſs</item>
+               <item>262 an Italian Landskip with the Sun ſetting</item>
+               <item>263 a fine Landskip with Cows</item>
+               <item>264 a Tankard and Lemon, an Original</item>
+               <item>265 Old <hi>Boon</hi> with a Pullet and Lemon</item>
+               <item>266 <hi>Medea</hi> an Original</item>
+               <item>267 a ſmall Landskip well done</item>
+               <item>268 a VVoman working bone-lace</item>
+               <item>269 a piece of Ruines finely done</item>
+               <item>270 a Landskip well done</item>
+               <item>271 an old mans head by <hi>Traveſſiano</hi>
+               </item>
+               <item>272 <hi>Diana</hi> and <hi>Caliſta</hi> by a good hand</item>
+               <item>273 a piece of Flowers by <hi>William Varelſt</hi>
+               </item>
+               <item>274 My Lady <hi>Cromwel</hi> ſuppoſed by <hi>Walker</hi>
+               </item>
+               <item>275 a Landskip with a Church</item>
+               <item>276 The beginning of Love, and privately another picture in the ſame frame ſhewing the perfection</item>
+               <item>277 a large piece of <hi>Roman</hi> Monuments and Tombs, by a Dutch maſter</item>
+               <item>278 a Lady with a Glaſs of VVine in one hand, and a good old piece on board</item>
+               <item>279 a delicate piece of Fiſh</item>
+               <item>280 a Dutch VVoman Rocking her Child</item>
+               <item>281 a large piece of a bull-baiting</item>
+               <item>282 a Landskip by <hi>Oſtade</hi>
+               </item>
+               <item>283 a black Horſe very fine</item>
+               <item>284 a Landskip with Goats, by an Italian</item>
+               <item>285 a Landskip by <hi>Loton</hi>
+               </item>
+               <item>286 Duke of <hi>Monmouth</hi> on copper</item>
+               <item>287 an original Turkywork'd carpet, by <hi>Meeres</hi>
+               </item>
+               <item>288 King <hi>William</hi> at the River <hi>Boyne,</hi> by <hi>Lamence</hi>
+               </item>
+               <item>289 a Landskip by an Italian</item>
+               <item>290 <hi>Caeſars</hi> Ghoſt appearing to <hi>Brutus</hi>
+               </item>
+               <item>291 <hi>Portia,</hi> a 3 quarter piece, well done</item>
+               <item>292 a pleaſant Landskip</item>
+               <item>293 a Landskip by an Italian</item>
+               <item>294 a Landskip by a good hand</item>
+               <item>295 a sketch in black and white, well done</item>
+               <item>296 a ſmall Sea-ſtorm</item>
+               <item>297 King <hi>William</hi> and Queen <hi>Mary</hi>
+               </item>
+               <item>298 <hi>Mars</hi> and <hi>Venus</hi> curiouſly painted</item>
+               <item>299 a Sea-piece in black and white well done</item>
+               <item>300 a Landskip by a good hand</item>
+               <pb n="7" facs="tcp:31004:5"/>
+               <item>301 The Three Graces</item>
+               <item>302 <hi>Perſeus</hi> and <hi>Andromeda</hi>
+               </item>
+               <item>303 a <hi>Mary Magdalen</hi> on a three quarter Cloth</item>
+               <item>304 a young Lady</item>
+               <item>305 a Country Lady very fine</item>
+               <item>306 a Flower-piece</item>
+               <item>307 a Winter-piece</item>
+               <item>308 a Froſt-piece</item>
+               <item>309 a Woman ſmoaking by a great maſter</item>
+               <item>310 a man hugging a Jugg</item>
+               <item>311 an old mans Head well done</item>
+               <item>312 a ſmall Landskip</item>
+               <item>313 a piece of Vanity</item>
+               <item>314 a Cieling-piece by <hi>Cupid</hi>
+               </item>
+               <item>315 The <hi>French</hi> Kings Head</item>
+               <item>316 a Feſtoon of Fruit and Flowers</item>
+               <item>317 a Winter-piece in ſmall</item>
+               <item>318 a ſmall Landskip finely painted</item>
+               <item>319 K. <hi>William</hi> and Q. <hi>Mary</hi> by a good hand</item>
+               <item>320 a fine piece of <hi>Venus</hi> and <hi>Adonis</hi>
+               </item>
+               <item>321 a Smoaking by <hi>Caſtro</hi>
+               </item>
+               <item>322 <hi>Hagar</hi> and the Angel</item>
+               <item>323 St. <hi>Jerome</hi> well painted</item>
+               <item>324 a Womans Head a Reading</item>
+               <item>325 a piece of Still-life well done</item>
+               <item>326 a Fruit-piece on Board by a <hi>Dutch</hi> maſter</item>
+               <item>327 Father <hi>Peters</hi> Fiſhing for the Diſſenters</item>
+               <item>328 a Cuckoldy Cobbler well done</item>
+               <item>329 a Sea-piece by old <hi>Pierce</hi>
+               </item>
+               <item>330 a piece of Vanity</item>
+               <item>331 a womans head by a great maſter</item>
+               <item>332 Young <hi>Haemskirks</hi> Head painted by himſelf</item>
+               <item>333 a Converſation by old <hi>Haemskirk</hi>
+               </item>
+               <item>334 K. <hi>William</hi> and Q. <hi>Mary</hi> in Oval Frames</item>
+               <item>335 a curious Landskip of a Proſpect</item>
+               <item>336 a Fryer in Contemplation</item>
+               <item>337 a Landskip very fine</item>
+               <item>338 a Sea-piece of <hi>Sailmaker</hi>
+               </item>
+               <item>339 St. <hi>Jerome</hi> by <hi>Simon Fern</hi>
+               </item>
+               <item>340 a Converſation of <hi>Dutch-men</hi> playing with cards</item>
+               <item>341 a VVoman milking a Goat, by an Italian</item>
+               <item>342 a winter-piece by a Dutch maſter</item>
+               <item>343 Our Saviour and St. <hi>John,</hi> by a good hand</item>
+               <item>344 an Olive-wood Dreſſing-box</item>
+               <item>345 a fine head after <hi>Rubens</hi>
+               </item>
+               <item>346 a fine piece of our Saviour taken from the croſs</item>
+               <item>347 a wanton Lady</item>
+               <item>348 a Drunkard with a Rheniſh-wine Glaſs</item>
+               <item>349 a Boy playing at Cards finely done</item>
+               <item>350 The Princeſs of <hi>Orange,</hi> King <hi>Williams</hi> mother</item>
+               <pb n="8" facs="tcp:31004:6"/>
+               <item>351 a Landskip by a Dutch maſter</item>
+               <item>352 a Sea-piece by <hi>Vandervelden</hi>
+               </item>
+               <item>353 a half-length in little by <hi>Holbien</hi>
+               </item>
+               <item>354 a Sea-piece by <hi>Peters</hi>
+               </item>
+               <item>355 Peaches by the Life well cone</item>
+               <item>356 a large Landskip well done</item>
+               <item>357 an Original piece of Birds by <hi>Hondius</hi>
+               </item>
+               <item>358 a Head by old <hi>Haemskirk</hi>
+               </item>
+               <item>359 a Landskip well painted</item>
+               <item>360 a fine piece by <hi>Muſtard</hi>
+               </item>
+               <item>361 a curious Landskip by <hi>Edima</hi>
+               </item>
+               <item>362 a Landskip by <hi>Snelling</hi>
+               </item>
+               <item>363 VViſe men Offering to our Saviour</item>
+               <item>364 a Landskip by an Italian</item>
+               <item>365 another ditto</item>
+               <item>366 a Head by <hi>Titian</hi>
+               </item>
+               <item>367 a Head by <hi>Haemskirk</hi>
+               </item>
+               <item>368 a piece of two Horſes</item>
+               <item>369 a piece of Still-life by <hi>Rouſtrate</hi>
+               </item>
+               <item>370 a VVomans Head in a carved frame</item>
+               <item>371 a Head by <hi>Haemskirk</hi>
+               </item>
+               <item>372 a winter-piece well done</item>
+               <item>373 a curious Sea-piece by <hi>Moy</hi>
+               </item>
+               <item>374 a fine Landskip with figures, by <hi>De Ryck</hi>
+               </item>
+               <item>375 a Fruit-piece by <hi>Bogdan</hi>
+               </item>
+               <item>376 Two Nuns Heads very fine</item>
+               <item>377 <hi>Jupiter</hi> and <hi>Pomona</hi>
+               </item>
+               <item>378 Virgin <hi>Mary</hi> and our Saviour on copper</item>
+               <item>379 a Fruit-piece by a Diſciple of <hi>Bogdan</hi>
+               </item>
+               <item>380 an Original Sea-ſtorm</item>
+               <item>381 a piece of ſtill-life by <hi>Virgulo</hi>
+               </item>
+               <item>382 a piece of ſtill life by a Diſciple of <hi>Bogdan</hi>
+               </item>
+               <item>383 a Gentleman in a Ruff</item>
+               <item>384 a Droll by <hi>Brower</hi>
+               </item>
+               <item>385 a Head ſuppoſed to be Prince <hi>George</hi>'s</item>
+               <item>386 a Vanity after <hi>Wiſſen,</hi> finely done</item>
+               <item>387 a <hi>Roman</hi> Charity well painted</item>
+               <item>388 a 3 quarter cloth with Cattle, by <hi>Moy</hi>
+               </item>
+               <item>389 a Landskip after <hi>Emy</hi>
+               </item>
+               <item>390 a piece of Cattle after <hi>Berkham</hi>
+               </item>
+               <item>391 a piece of ſtill-life by <hi>Virgulo</hi>
+               </item>
+               <item>392 a Sea-piece well painted</item>
+               <item>393 a piece of Flowers and Fruit well painted</item>
+               <item>394 a Sea-piece by <hi>Vandervelden</hi>
+               </item>
+               <item>395 a piece of flowers well done</item>
+               <item>396 a Head by old <hi>Haemskirk</hi>
+               </item>
+               <item>397 Young <hi>Teckleys</hi> head in an Oval</item>
+               <item>398 an Original Fruit-piece in a right gold frame</item>
+               <item>399 a VVomans head well done</item>
+               <item>400 a Landskip with a VVind-mill</item>
+               <pb n="9" facs="tcp:31004:6"/>
+               <item>401 a piece of proſpective well done</item>
+               <item>402 a Landskip with figures, by <hi>De Ryck</hi>
+               </item>
+               <item>403 an Original piece of Fruit, by <hi>Bogdan</hi>
+               </item>
+               <item>404 a piece with two Bogs</item>
+               <item>405 a piece with a Ship</item>
+               <item>406 a Sea-piece of <hi>Vandervelden</hi>
+               </item>
+               <item>407 a ſmall piece of Japan flowers</item>
+               <item>408 an Old mans Head very fine</item>
+               <item>409 Queen <hi>Dido</hi>
+               </item>
+               <item>410 an Original Turky-work'd Carpet</item>
+               <item>411 a pc. of Hell, &amp; Devils cutting off K. <hi>Ch.</hi> head</item>
+               <item>412 an Amorous piece on a 3 quarter cloth</item>
+               <item>413 a Landskip with Hedge-Hoggs, by the life</item>
+               <item>414 a <hi>Roman</hi> Monument in a Grove, by an <hi>Ital.</hi>
+               </item>
+               <item>415 an original Owl by <hi>Snider</hi>
+               </item>
+               <item>416 a Woman ſucking a Child, by <hi>Oſtade</hi>
+               </item>
+               <item>417 a fine Head by <hi>Albert Durer</hi>
+               </item>
+               <item>418 <hi>Oliver Cromwel</hi> well painted</item>
+               <item>419 a Converſation by old <hi>Haemskirk</hi>
+               </item>
+               <item>420 St. <hi>Peter</hi> with the Cock, very fine</item>
+               <item>421 a Dog after <hi>Laſuliere</hi>
+               </item>
+               <item>422 a Hanch of Veniſon</item>
+               <item>423 a VVinter-piece finely done</item>
+               <item>424 King <hi>William</hi> and Queen <hi>Mary</hi>
+               </item>
+               <item>425 Our Saviour triumphing over the world</item>
+               <item>426 a fine Horſe by <hi>Woverman</hi>
+               </item>
+               <item>427 a ſmall Landskip ſuppoſed by <hi>Griffiere</hi>
+               </item>
+               <item>428 a Dutch Landskip neatly done, on copper</item>
+               <item>429 a Dutch Landskip in an ebony frame</item>
+               <item>430 an Original Turky Carpet in an eb. frame</item>
+               <item>431 <hi>Jupiter</hi> in ſhape of a Swan, enjoying <hi>Laeda</hi>
+               </item>
+               <item>432 a Landskip with a VVater-mill</item>
+               <item>433 a fine old VVomans head</item>
+               <item>434 a piece of <hi>David</hi> and the High Prieſts</item>
+               <item>435 a Buck-hunting</item>
+               <item>436 a Bear-hunting</item>
+               <item>437 an Orig. Landskip with figures, by <hi>Wyck</hi>
+               </item>
+               <item>438 an original Moon-ſhine</item>
+               <item>439 <hi>Ital.</hi> pc. with Pipers, with Dog &amp; Cat dancing, ſo that they ſeem to run after you whereſoever you ſtand</item>
+               <item>440 a proſpect with buildings well painted</item>
+               <item>441 an Emperours Head curiouſly painted</item>
+               <item>442 a winter-piece by <hi>Evenbrood</hi>
+               </item>
+               <item>443 a piece of Ruins</item>
+               <item>444 a laughing Philoſopher, an orig. by old <hi>Boon.</hi>
+               </item>
+               <item>445 Our Saviour at his laſt ſupper</item>
+               <item>446 a <hi>Spaniſh</hi> converſation, by an Italian</item>
+               <item>447 a Bull-baiting after <hi>Hondius</hi>
+               </item>
+               <item>448 a Leopard and Dogs</item>
+               <item>449 a Head by <hi>Caſtro,</hi> telling Guineas</item>
+               <item>450 a Bull-baiting</item>
+               <pb n="10" facs="tcp:31004:7"/>
+               <item>451 a Pilgrim, an Original, by <hi>Haemskirk</hi>
+               </item>
+               <item>452 The ſtory of <hi>Jeptha</hi> and his Daughters</item>
+               <item>453 The 7 works of Charity finely done</item>
+               <item>454 a VVoman with Child, finely done</item>
+               <item>455 <hi>Nero</hi> and <hi>Seneca</hi> by a Dutch maſter</item>
+               <item>456 a fine piece of a Mackarel</item>
+               <item>457 a Madona</item>
+               <item>458 a Landskip finely painted</item>
+               <item>459 <hi>Pyramus</hi> and <hi>Thysbe</hi> by an Italian</item>
+               <item>460 a pc. of Cards, an Orig. of old <hi>Haem.</hi> on cop.</item>
+               <item>461 a fine piece of Dogs and Monkies</item>
+               <item>462 a Painter drawing his Miſtriſs</item>
+               <item>463 a Ladies Head</item>
+               <item>464 a half length of a Shepherd</item>
+               <item>465 <hi>Don Scotus</hi> a Philoſopher, a half length</item>
+               <item>466 a ſleeping <hi>Venus</hi> by a good hand</item>
+               <item>467 <hi>Jupiter</hi> in the ſhape of an Eagle, carrying <hi>Astrea</hi> to Heaven</item>
+               <item>468 a Turky work'd Carpet by <hi>Moſs</hi>
+               </item>
+               <item>469 an original Flower-piece, by <hi>Varelſt</hi>
+               </item>
+               <item>470 a Fools head</item>
+               <item>471 a fine pc. of a Lady, ſuppos'd in <hi>Holbins</hi> time</item>
+               <item>472 a piece of a Deaths Head, and Hour-glaſs</item>
+               <item>473 a Droll by <hi>Brower</hi>
+               </item>
+               <item>474 a curious piece of Flowers, by <hi>Varelſt</hi>
+               </item>
+               <item>475 a Nymph ſleeping, with other Nymphs and Satyrs, an orig</item>
+               <item>476 a piece of ſtill-life, with a Jarr and Fruit</item>
+               <item>477 an Amorous piece curiouſly painted</item>
+               <item>478 a piece of <hi>Diana</hi> well painted</item>
+               <item>479 The ſtory of <hi>Achilles,</hi> where he finds the <hi>Trojan</hi> Ks. Son in his Fathers Tomb</item>
+               <item>480 a Flower-pot by a good hand</item>
+               <item>481 a Sea-piece by Moonſhine</item>
+               <item>482 a Landskip with a VVater-mill</item>
+               <item>483 a fine Flower-piece by <hi>Bunnyeroy</hi>
+               </item>
+               <item>484 a <hi>French</hi> Gallant</item>
+               <item>485 a <hi>French</hi> Lady walking</item>
+               <item>486 Deſtruction of <hi>Troy,</hi> with the <hi>Trojan</hi> Horſe</item>
+               <item>487 Crucifixion of our Saviour and 2 Thieves</item>
+               <item>488 a Dutch Droll</item>
+               <item>489 a Droll, playing at Tables</item>
+               <item>490 <hi>Noah</hi>'s Flood</item>
+               <item>491 The Angel appearing to the Shepherds</item>
+               <item>492 a Sea-piece</item>
+               <item>493 a Fruit-piece of Hunting</item>
+               <item>494 a fine piece of Autumn</item>
+               <item>495 a piece of Harveſt</item>
+               <item>496 <hi>Daniel</hi> in the Lions Den</item>
+               <item>497 a VVinter-piece</item>
+               <item>498 Our Saviour and <hi>Thomas Didymus</hi>
+               </item>
+               <item>499 Our Saviours Aſcention</item>
+               <item>500 a Turkiſh battel</item>
+            </list>
+            <pb facs="tcp:31004:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
